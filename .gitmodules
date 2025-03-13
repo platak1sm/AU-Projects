@@ -1,0 +1,3 @@
+[submodule "DataVisualization/dv-project-f1"]
+	path = DataVisualization/dv-project-f1
+	url = https://github.com/Kornimate/dv-project-f1.git
