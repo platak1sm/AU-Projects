@@ -1,1 +1,0 @@
-Gitlab Repository of the project is: https://gitlab.au.dk/hci-group-10/warptalk_3
